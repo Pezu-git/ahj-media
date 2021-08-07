@@ -276,7 +276,7 @@ export default class Feed {
             attr: {
               class: ['feed__title'],
             },
-            content: 'My Feed',
+            content: 'Media',
           },
         },
         {
